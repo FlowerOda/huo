@@ -1,1 +1,5 @@
 11111111
+
+sub test()
+     msgbox "OK"
+end sub
